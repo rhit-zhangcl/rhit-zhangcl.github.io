@@ -16,7 +16,7 @@ li {
   padding: 5px;
 }
 
-li a:hover {
+a:hover {
   background-color: #556B2F;
   color: black;
 }
