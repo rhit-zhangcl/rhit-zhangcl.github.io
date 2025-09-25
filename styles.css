@@ -17,7 +17,8 @@ li {
 }
 
 li a:hover {
-  background-color: black;
+  background-color: #556B2F;
+  color: black;
 }
 
 footer {
