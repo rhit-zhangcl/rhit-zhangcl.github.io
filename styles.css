@@ -10,10 +10,10 @@ nav ul {
   background-color: #302B27;
 }
 
-ul li {
+nav ul li {
   float: left;
 }
 
-ul li a:hover {
+nav ul li a:hover {
   background-color: #111111;
 }
