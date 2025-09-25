@@ -19,3 +19,7 @@ nav ul li {
 nav ul li a:hover {
   background-color: #111111;
 }
+
+footer ul li {
+  background-color: gray;
+}
